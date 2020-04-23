@@ -1,3 +1,10 @@
+# 此项目已归档, 升级版请参考下述地址
+
+地址: https://github.com/hepengju/hekele.git 里面的 data 子工程
+演示: http://ali.hepengju.com:9010/
+
+
+
 # test-data-generator
 测试数据生成器，尽可能的接近实际情况
 
